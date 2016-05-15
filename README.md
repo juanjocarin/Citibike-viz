@@ -1,7 +1,7 @@
 # W209 Final Project
 ##### *By Juanjo Carin, Kevin Allen, Matt Hayes, and Rosalind Lee*
 ### Visualizing Citi Bike Data
-Check out the [web site on Github](http://kevinallen.github.io/citibike-viz/).
+Check out the [web site on Github](http://juanjocarin.github.io/Citibike-viz/).
 
 The data that was used for this project can be found on the [Citi Bike NYC web site](https://www.citibikenyc.com/system-data). The source data consists of a single file per month, all with the same schema.
 
@@ -49,7 +49,7 @@ FROM rawdata
 GROUP BY
     start_station_id, end_station_id, substr(starttime,1,10);
 ```
-More information on the cleaning process can be found in the [notes file](https://github.com/kevinallen/citibike-viz/blob/gh-pages/notes.md).
+More information on the cleaning process can be found in the [notes file](https://github.com/juanjocarin/Citibike-viz/blob/gh-pages/notes.md).
 
 ### Usability Testing
 Usability testing was conducted in order to find confusing and intuitive elements of the visualizations. The usability testing was conducted as a one-on-one interview session with the users. The users were asked to answer questions, and their audio responses and interaction with the visualization were recorded.
