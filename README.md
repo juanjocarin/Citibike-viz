@@ -1,4 +1,5 @@
-# W209 Final Project
+# W209-Data Visualization and Communication
+## Final Project
 ##### *By Juanjo Carin, Kevin Allen, Matt Hayes, and Rosalind Lee*
 ### Visualizing Citi Bike Data
 Check out the [web site on Github](http://juanjocarin.github.io/Citibike-viz/).
